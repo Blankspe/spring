@@ -1,0 +1,15 @@
+student:
+#  - {name: zs,age: 15}
+#  - {name: ls,age: 14}
+#  - {name: 34,age: 12}
+  name: er
+  age: 23
+  list:
+    - name: wuya
+      age: 29
+
+server:
+  port: ${myPost}
+myPost: 80
+
+
